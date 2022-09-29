@@ -15,6 +15,8 @@ We've created some sections to keep the discussion focused.
 | [Debugging 🔍](https://github.com/react-native-community/developer-experience-wg/discussions/categories/debugging) | A place to chat about release specific bugs & build problems |
 | [E2E & CI 🏗](https://github.com/react-native-community/developer-experience-wg/discussions/categories/e2e-ci) | To discuss and coordinate around E2E and CI efforts on react-native's GH repo. |
 | [Metro 🚇](https://github.com/react-native-community/developer-experience-wg/discussions/categories/metro) | To discuss and coordinate around Metro related efforts. |
+| [Monorepo 🚝](https://github.com/react-native-community/developer-experience-wg/discussions/categories/monorepo) | To discuss and coordinate around the monorepo effort (see [#480](https://github.com/react-native-community/discussions-and-proposals/pull/480) and [the umbrella issue](https://github.com/facebook/react-native/issues/34692)). |
+
 
 ## How to join the working group
 
